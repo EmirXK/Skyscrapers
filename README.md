@@ -7,9 +7,9 @@ There might be a person looking from outside the grid, and the number on that pe
 Can you find a solution that meets all conditions?
 
 # Features
--Random puzzle generation
+Random puzzle generation
 
--Built-in puzzle solver
+Built-in puzzle solver
 
 # Screenshots
 ![image](https://github.com/EmirXK/Skyscrapers/assets/92262991/00daf623-5e1c-43db-b6dd-58d574953445)
