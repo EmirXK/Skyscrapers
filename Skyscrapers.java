@@ -25,13 +25,6 @@ public class Skyscrapers {
         current_clues = clues;
         // if we have reached this point, the solution is possible.
 
-        for (int i=0; i<4; i++) {
-            for (int j=0; j<4; j++) {
-                System.out.print(my_board[i][j] + " ");
-            }
-            System.out.println();
-        }
-
         // Create a new JFrame
         JFrame frame = new JFrame("Skyscrapers");
 
