@@ -8,6 +8,7 @@ Can you find a solution that meets all conditions?
 
 # Features
 -Random puzzle generation
+
 -Built-in puzzle solver
 
 # Screenshots
